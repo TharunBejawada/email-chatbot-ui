@@ -1,0 +1,1 @@
+export { default } from "file:///Users/tharunbejawada/Desktop/Nitish%20Work/email-chatbot-ui/node_modules/.pnpm/@nuxt+vite-builder@3.11.2_magicast@0.3.5_rollup@4.52.0_terser@5.44.0_vue@3.5.21/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
